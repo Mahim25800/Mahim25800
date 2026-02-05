@@ -52,12 +52,11 @@ I'm a final-year student based in **Bangladesh**, currently bridging the gap bet
 ### 📈 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=siN2580&show_icons=true&theme=dracula&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siN2580&layout=compact&theme=dracula" />
-</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siN2580&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siN2580&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
