@@ -49,18 +49,6 @@ I'm a final-year student based in **Bangladesh**, currently bridging the gap bet
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=siN2580)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siN2580&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 ### 🤝 Connect With Me
 
 <div align="left">
