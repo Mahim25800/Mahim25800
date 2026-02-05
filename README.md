@@ -53,10 +53,10 @@ I'm a final-year student based in **Bangladesh**, currently bridging the gap bet
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dracula&count_private=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=siN2580&show_icons=true&theme=dracula&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siN2580&layout=compact&theme=dracula" />
 </a>
 </div>
 
