@@ -53,7 +53,7 @@ I'm a final-year student based in **Bangladesh**, currently bridging the gap bet
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siN2580&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siN2580&theme=dracula)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siN2580&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
