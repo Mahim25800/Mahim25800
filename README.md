@@ -36,6 +36,7 @@ I'm a final-year student based in **Bangladesh**, currently bridging the gap bet
 ### 🚀 Featured Projects
 
 #### 🎓 [Rate My Grader](#) 
+<img src="https://github.com/user-attachments/assets/7f7deb87-5cfb-4cea-8434-8f0c76855ecf" alt="Rate My Grader Dashboard" width="100%" />
 *A web platform designed for the Bangladeshi student context.*
 - **Tech:** PHP, MySQL, JavaScript
 - **Status:** In Development
