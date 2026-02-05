@@ -64,10 +64,10 @@ I'm a final-year student based in **Bangladesh**, currently bridging the gap bet
 ### 🤝 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+  <a href="https://linkedin.com/in/ma-him-4904ba270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:[your-email]" target="_blank">
+  <a href="mailto:mhim2580@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
