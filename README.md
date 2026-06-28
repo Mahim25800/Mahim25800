@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-I'm a full-stack developer who cares deeply about the craft — not just making things work, but making them feel right. I build modern web applications with clean architecture, thoughtful UI, and production-ready code. Currently exploring **Go** and **Rust**.
+I'm a full-stack developer who cares deeply about the craft — not just making things work, but making them feel right. I build modern web applications with clean architecture, thoughtful UI, and production-ready code. Currently exploring **NextJs** and **Django**.
 
 ---
 
