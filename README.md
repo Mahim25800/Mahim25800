@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi,%20I'm%20Mahim%20👋&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20·%20Frontend%20Craftsman%20·%20Builder&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=I+build+things+that+feel+as+good+as+they+work.;Next.js+·+TypeScript+·+React+·+Supabase;Always+learning.+Always+shipping." alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=I+build+things+that+feel+as+good+as+they+work.;Next.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Supabase;Always+learning.+Always+shipping." alt="Typing SVG" /></a>
 
 </div>
 
